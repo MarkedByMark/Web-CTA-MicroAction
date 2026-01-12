@@ -49,14 +49,6 @@ Website ini memiliki fitur interaksi sederhana berupa pemilihan aksi sosial dan 
 
 Website ini tidak menggunakan backend karena fokus proyek berada pada perancangan antarmuka dan interaksi pengguna.
 
----
-
-## Cara Menjalankan Website
-
-1. Clone repository ini ke komputer lokal.
-2. Buka folder proyek.
-3. Jalankan file `index.html` menggunakan browser.
-4. Website dapat digunakan tanpa konfigurasi tambahan.
 
 ---
 
@@ -69,3 +61,4 @@ Website ini merupakan prototype dan tidak menyimpan data pengguna. Seluruh inter
 ## Penutup
 
 Melalui proyek ini diharapkan pengguna dapat memahami bahwa kontribusi sosial tidak selalu harus berskala besar, dan perubahan dapat dimulai dari tindakan kecil yang dilakukan secara konsisten.
+
